@@ -1,0 +1,14 @@
+{
+  "name": "buybook-smart-contract",
+  "version": "1.0.0",
+  "description": "A smart contract for selling a digital book",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0",
+    "truffle": "^5.4.11",
+    "web3": "^1.5.2"
+  }
+}
